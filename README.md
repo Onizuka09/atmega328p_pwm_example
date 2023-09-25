@@ -8,3 +8,5 @@ The provided code is an Arduino sketch that configures three PWM pins ( by acces
 
 https://github.com/Onizuka09/atmega328p_pwm_example/assets/112946436/4015371b-d54b-46e9-b353-a93b7d950e62
 
+# Resource: 
+![https://wellys.com/posts/avr_c_step2/]
